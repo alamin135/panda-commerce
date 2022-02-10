@@ -100,7 +100,7 @@
     background: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%)
 }
 .line{
-    width: 800px;
+    width: 80px;
     height: 2px;
     background-color: #ff5898;
     margin: 15px auto;
