@@ -1,0 +1,112 @@
+.bold{
+    font-weight: 900;
+    color: #ff136f;
+}
+
+.carousel{
+  margin: 50px 0 ;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.banner-bg{
+    background-color: #fceae8;
+   
+}
+.carousel-item{
+    padding: 20px 40px;
+    
+   
+}
+.row{
+    align-items: center;
+}
+.price{
+    color: #ff136f;
+    font-size: 25px;
+}
+.buy-now{
+    background: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: none;
+    color: white;
+    padding:3px 8px;
+}
+.watch{
+    background:linear-gradient(to left, yellow 0%,rgb(0, 0, 0)100%);
+
+
+}
+.bag{
+    background:linear-gradient(to left, rgb(255, 136, 0) 0%,rgb(0, 0, 0)100%);
+   
+}
+.shoes{
+    background:linear-gradient(to left, blue 0%,rgb(0, 0, 0)100%);
+}
+
+.common{
+    
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 10px 30px;
+    align-items: center;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+   
+}
+.categories img{
+    width: 120px;
+}
+.categories h1{
+    color: #fff;
+}
+.all-shoes{
+    margin-top: 50px;
+   
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgba(29, 28, 28, 0.37);
+    margin-bottom: 50px;
+   
+}
+.card img{
+    margin: 0 auto;
+    
+}
+
+.container form{
+    width: 350px;
+   margin: 50px auto;
+
+
+}
+.form-floating{
+   margin-top: 10px;
+}
+.btn-primary{
+    background: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%)
+}
+.line{
+    width: 800px;
+    height: 2px;
+    background-color: #ff5898;
+    margin: 5px auto;
+}
+.form{
+    background-color:#fceaef ;
+}
+nav{
+    margin-top: 20px;
+}
