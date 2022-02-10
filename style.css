@@ -3,8 +3,9 @@
     color: #ff136f;
 }
 
+
 .carousel{
-  margin: 50px 0 ;
+  margin: 70px 0 ;
   border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -55,7 +56,7 @@
     
     display: flex;
     justify-content: space-between;
-    margin-top: 10px;
+    margin-top: 15px;
     padding: 10px 30px;
     align-items: center;
     border-radius: 7px;
@@ -72,7 +73,7 @@
     color: #fff;
 }
 .all-shoes{
-    margin-top: 50px;
+    margin-top: 70px;
    
 }
 .card{
@@ -88,12 +89,12 @@
 
 .container form{
     width: 350px;
-   margin: 50px auto;
+   margin: 70px auto;
 
 
 }
 .form-floating{
-   margin-top: 10px;
+   margin-top: 15px;
 }
 .btn-primary{
     background: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%)
@@ -102,7 +103,7 @@
     width: 800px;
     height: 2px;
     background-color: #ff5898;
-    margin: 5px auto;
+    margin: 15px auto;
 }
 .form{
     background-color:#fceaef ;
